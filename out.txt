@@ -1,0 +1,60 @@
+	File:	ab.txt	Substring number:	1
+Hello, World
+	File:	hd.txt	Substring number:	1
+Bye, World
+	File:	ab.txt	Substring number:	2
+ Hello, World
+	File:	hd.txt	Substring number:	2
+ Bye, World
+	File:	ab.txt	Substring number:	3
+ Hello, World
+	File:	hd.txt	Substring number:	3
+ Bye, World
+	File:	ab.txt	Substring number:	4
+ Hello, World
+	File:	hd.txt	Substring number:	4
+ Bye, World
+	File:	ab.txt	Substring number:	5
+ Hello, World
+	File:	hd.txt	Substring number:	5
+ Bye, World
+	File:	ab.txt	Substring number:	6
+ Hello, World
+	File:	hd.txt	Substring number:	6
+ Bye, World
+	File:	ab.txt	Substring number:	7
+ Hello, World
+	File:	hd.txt	Substring number:	7
+ Bye, World
+	File:	ab.txt	Substring number:	8
+ Hello, World
+	File:	hd.txt	Substring number:	8
+ Bye, World
+	File:	ab.txt	Substring number:	9
+ Hello, World
+	File:	hd.txt	Substring number:	9
+ Bye, World
+	File:	ab.txt	Substring number:	10
+ Hello, World
+	File:	hd.txt	Substring number:	10
+ Bye, World
+	File:	ab.txt	Substring number:	11
+ Hello, World
+	File:	hd.txt	Substring number:	11
+ Bye, World
+	File:	ab.txt	Substring number:	12
+ Hello, World
+	File:	hd.txt	Substring number:	12
+ Bye, World
+	File:	hd.txt	Substring number:	13
+ Bye, World
+	File:	hd.txt	Substring number:	14
+ Bye, World
+	File:	hd.txt	Substring number:	15
+ Bye, World
+	File:	hd.txt	Substring number:	16
+ Bye, World
+	File:	hd.txt	Substring number:	17
+ Bye, World
+	File:	hd.txt	Substring number:	18
+ Bye, World
